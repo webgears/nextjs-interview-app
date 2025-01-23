@@ -1,4 +1,4 @@
-import { getShop, Discount } from "@/lib/get-shop";
+import { getShop, Discount } from "../lib/get-shop";
 import DiscountCard from "../components/DiscountCard";
 import { notFound } from "next/navigation";
 
